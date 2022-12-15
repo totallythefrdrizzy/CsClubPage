@@ -1,0 +1,9 @@
+body{
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvLbCXxABsNzZwWzdZ0MKo50qyJA1TPz_W-g&usqp=CAU);
+  background-size: cover;
+}
+
+* {
+  font-family: Sans-serif;
+  text-align: center
+}
